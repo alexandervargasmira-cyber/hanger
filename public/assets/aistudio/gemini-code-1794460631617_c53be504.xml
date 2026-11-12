@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Colgador de Álgebra</string>
+    <string name="level_1">Nivel 1: Un Paso (+)</string>
+    <string name="level_2">Nivel 2: Un Paso (* /)</string>
+    <string name="level_3">Nivel 3: Dos Pasos</string>
+    <string name="level_4">Nivel 4: Variables en Ambos Lados</string>
+    <string name="level_5">Nivel 5: Multi-Paso</string>
+    <string name="custom_equation">Ecuación Personalizada</string>
+    <string name="create">Crear</string>
+    <string name="cancel">Cancelar</string>
+    <string name="invalid_equation">Formato de ecuación inválido.</string>
+    <string name="infinite_solutions">Infinitas soluciones.</string>
+    <string name="no_solution">Sin solución.</string>
+    <string name="divide_groups">Dividir en %d grupos</string>
+    <string name="history_sub">Restar %d en ambos lados</string>
+    <string name="history_add">Sumar %d en ambos lados</string>
+    <string name="history_div">Dividir ambos lados por %d</string>
+</resources>

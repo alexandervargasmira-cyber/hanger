@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">代数衣架</string>
+    <string name="level_1">第1关：一步方程 (+)</string>
+    <string name="level_2">第2关：一步方程 (* /)</string>
+    <string name="level_3">第3关：两步方程</string>
+    <string name="level_4">第4关：两边均有未知数</string>
+    <string name="level_5">第5关：多步方程 (+ 与 -)</string>
+    <string name="custom_equation">自定义方程</string>
+    <string name="create">创建</string>
+    <string name="cancel">取消</string>
+    <string name="clear">清空</string>
+    <string name="delete_char">退格</string>
+    <string name="invalid_equation">方程格式无效。必须包含 \'=\' 和未知数 x。</string>
+    <string name="infinite_solutions">无穷多解（恒等式）。</string>
+    <string name="no_solution">无解（矛盾方程）。</string>
+    <string name="divide_groups">分成 %d 组</string>
+    <string name="history_sub">两边同时减去 %d</string>
+    <string name="history_add">两边同时加上 %d</string>
+    <string name="history_div">两边同时除以 %d</string>
+    <string name="history_sub_x">两边同时减去 %dx</string>
+    <string name="history_zero_pair">在%1$s侧消除零对</string>
+    <string name="history_remove_one">从%2$s侧移除 %1$s（天平倾斜）</string>
+    <string name="side_left">左</string>
+    <string name="side_right">右</string>
+    <string name="solved_title">方程已解出！</string>
+    <string name="solved_solution">未知数 x = %s</string>
+    <string name="next_level">下一关</string>
+    <string name="next_equation">下一题</string>
+    <string name="prev_equation">上一题</string>
+    <string name="reset_equation">重置</string>
+    <string name="step_history">解题步骤历史</string>
+    <string name="current_equation">当前方程</string>
+    <string name="interactive_balance">互动天平吊架</string>
+    <string name="status_balanced">平衡 (=)</string>
+    <string name="status_tilted">不平衡 (≠) - 请保持两边对等操作！</string>
+    <string name="tip_zero_pair">教学提示：将气球（-1 或 -x）拖到重物（+1 或 +x）上，即可消去零对！</string>
+    <string name="tip_balance">点击或拖拽移除元素。切记：一侧做的运算，另一侧也必须相同！</string>
+    <string name="positive_weight">重物 (+)</string>
+    <string name="negative_balloon">气球 (-)</string>
+    <string name="variable_x">未知数 x</string>
+    <string name="constant_1">常数 1</string>
+    <string name="custom_equation_dialog_title">输入自定义方程</string>
+    <string name="custom_equation_preview">方程：%s</string>
+</resources>

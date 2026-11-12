@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Алгебраическая вешалка</string>
+    <string name="level_1">Уровень 1: В один шаг (+)</string>
+    <string name="level_2">Уровень 2: В один шаг (* /)</string>
+    <string name="level_3">Уровень 3: В два шага</string>
+    <string name="level_4">Уровень 4: Переменные с двух сторон</string>
+    <string name="level_5">Уровень 5: Многошаговые (+ и -)</string>
+    <string name="custom_equation">Своё уравнение</string>
+    <string name="create">Создать</string>
+    <string name="cancel">Отмена</string>
+    <string name="clear">Очистить</string>
+    <string name="delete_char">Стереть</string>
+    <string name="invalid_equation">Неверный формат уравнения. Требуется \'=\' и переменная x.</string>
+    <string name="infinite_solutions">Бесконечно много решений.</string>
+    <string name="no_solution">Нет решений (противоречие).</string>
+    <string name="divide_groups">Разделить на %d групп</string>
+    <string name="history_sub">Вычесть %d из обеих частей</string>
+    <string name="history_add">Прибавить %d к обеим частям</string>
+    <string name="history_div">Разделить обе части на %d</string>
+    <string name="history_sub_x">Вычесть %dx из обеих частей</string>
+    <string name="history_zero_pair">Нулевая пара сокращена на %1$s стороне</string>
+    <string name="history_remove_one">Удалено %1$s с %2$s стороны (нарушение баланса)</string>
+    <string name="side_left">левой</string>
+    <string name="side_right">правой</string>
+    <string name="solved_title">Уравнение решено!</string>
+    <string name="solved_solution">Значение x = %s</string>
+    <string name="next_level">Следующий уровень</string>
+    <string name="next_equation">Вперёд</string>
+    <string name="prev_equation">Назад</string>
+    <string name="reset_equation">Сброс</string>
+    <string name="step_history">История шагов</string>
+    <string name="current_equation">Текущее уравнение</string>
+    <string name="interactive_balance">Интерактивные весы-подвес</string>
+    <string name="status_balanced">В балансе (=)</string>
+    <string name="status_tilted">Дисбаланс (≠) - уравновесьте весы!</string>
+    <string name="tip_zero_pair">Подсказка: Перетащите шарик (-1 или -x) на груз (+1 или +x), чтобы сократить нулевую пару!</string>
+    <string name="tip_balance">Коснитесь элемента для удаления. Помните: действие должно быть симметричным!</string>
+    <string name="positive_weight">Груз (+)</string>
+    <string name="negative_balloon">Шарик (-)</string>
+    <string name="variable_x">Переменная x</string>
+    <string name="constant_1">Константа 1</string>
+    <string name="custom_equation_dialog_title">Ввод своего уравнения</string>
+    <string name="custom_equation_preview">Уравнение: %s</string>
+</resources>

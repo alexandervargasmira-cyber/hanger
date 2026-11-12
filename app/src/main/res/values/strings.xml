@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Algebra Hanger</string>
+    <string name="level_1">Level 1: One-Step (+)</string>
+    <string name="level_2">Level 2: One-Step (* /)</string>
+    <string name="level_3">Level 3: Two-Step</string>
+    <string name="level_4">Level 4: Variables Both Sides</string>
+    <string name="level_5">Level 5: Multi-Step (+ and -)</string>
+    <string name="custom_equation">Custom Equation</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="delete_char">Delete</string>
+    <string name="invalid_equation">Invalid equation format. Must contain \'=\' and variable x.</string>
+    <string name="infinite_solutions">Infinite solutions (identity equation).</string>
+    <string name="no_solution">No solution (contradiction).</string>
+    <string name="divide_groups">Divide into %d groups</string>
+    <string name="history_sub">Subtract %d from both sides</string>
+    <string name="history_add">Add %d to both sides</string>
+    <string name="history_div">Divide both sides by %d</string>
+    <string name="history_sub_x">Subtract %dx from both sides</string>
+    <string name="history_zero_pair">Zero pair canceled on %1$s side</string>
+    <string name="history_remove_one">Removed %1$s from %2$s side (unbalanced)</string>
+    <string name="side_left">left</string>
+    <string name="side_right">right</string>
+    <string name="solved_title">Equation Solved!</string>
+    <string name="solved_solution">Value of x = %s</string>
+    <string name="next_level">Next Level</string>
+    <string name="next_equation">Next Equation</string>
+    <string name="prev_equation">Previous</string>
+    <string name="reset_equation">Reset</string>
+    <string name="step_history">Step History</string>
+    <string name="current_equation">Current Equation</string>
+    <string name="interactive_balance">Interactive Balance Scale</string>
+    <string name="status_balanced">Balanced (=)</string>
+    <string name="status_tilted">Unbalanced (≠) - Balance the equation!</string>
+    <string name="tip_zero_pair">Didactic Tip: Drag a balloon (-1 or -x) over a weight (+1 or +x) to cancel them as a Zero Pair!</string>
+    <string name="tip_balance">Tap or drag an item to remove it. Remember: whatever you do to one side, you must do to the other!</string>
+    <string name="positive_weight">Weight (+)</string>
+    <string name="negative_balloon">Balloon (-)</string>
+    <string name="variable_x">Variable x</string>
+    <string name="constant_1">Constant 1</string>
+    <string name="custom_equation_dialog_title">Enter Custom Equation</string>
+    <string name="custom_equation_preview">Equation: %s</string>
+</resources>

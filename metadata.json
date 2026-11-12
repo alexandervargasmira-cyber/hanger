@@ -1,0 +1,6 @@
+{
+  "name": "Algebra Hanger",
+  "description": "Interactive mobile hanger balance app teaching linear equations visually with zero pairs and balanced operations for middle school algebra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

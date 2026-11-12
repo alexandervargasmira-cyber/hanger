@@ -1,0 +1,7 @@
+<!-- Traducciones similares para Chino -->
+<resources>
+    <string name="app_name">代数衣架</string>
+    <string name="custom_equation">自定义方程</string>
+    <string name="history_sub">两边同时减去 %d</string>
+    <!-- ... -->
+</resources>

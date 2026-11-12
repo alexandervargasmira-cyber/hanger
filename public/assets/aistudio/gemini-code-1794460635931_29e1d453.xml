@@ -1,0 +1,7 @@
+<!-- Traducciones similares para Ruso (Omitidas por brevedad, usar mismas claves) -->
+<resources>
+    <string name="app_name">Алгебраическая вешалка</string>
+    <string name="custom_equation">Свое уравнение</string>
+    <string name="history_sub">Вычесть %d из обеих частей</string>
+    <!-- ... -->
+</resources>

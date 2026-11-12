@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Algebra Hanger</string>
+    <string name="level_1">Level 1: One-Step (+)</string>
+    <string name="level_2">Level 2: One-Step (* /)</string>
+    <string name="level_3">Level 3: Two-Step</string>
+    <string name="level_4">Level 4: Variables Both Sides</string>
+    <string name="level_5">Level 5: Multi-Step</string>
+    <string name="custom_equation">Custom Equation</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_equation">Invalid equation format.</string>
+    <string name="infinite_solutions">Infinite solutions.</string>
+    <string name="no_solution">No solution.</string>
+    <string name="divide_groups">Divide into %d groups</string>
+    <string name="history_sub">Subtract %d from both sides</string>
+    <string name="history_add">Add %d to both sides</string>
+    <string name="history_div">Divide both sides by %d</string>
+</resources>
